@@ -23,12 +23,11 @@
 <table>
     <thead>
         <tr>
-            <th>名称</th>
-            <th>值</th>
-            <th>备注</th>
+            <th>文件</th>
+            <th>作用</th>
         </tr>
     </thead>
     <tbody>
-       <!-- 省略 tbody 内容 -->
+       <tr> <th>input.py</th>  <th>读取本地CIFAR-10的二进制文件格式的内容。</th> </tr>
     </tbody>
 </table>
