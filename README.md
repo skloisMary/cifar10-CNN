@@ -4,6 +4,7 @@
 本人进行了分别是在单个GPU和多个GPU下进行了测试，所以代码就被分成了两部分
 单个GPU包含以下文件(在官方源码基础上进行更改)，见博客[卷积神经网络：CIFAR-10训练和测试（单块GPU）](https://blog.csdn.net/weixin_42111770/article/details/81940601):
 |  文件  | 作用 |
+| --------   | -----:   | :----: |
 |  cifar10_input.py  |读取本地CIFAR-10的二进制文件格式，定义函数distorted_inputs获得训练数据和inputs函数获取测试数据|
 |  cifar10_model.py  |建立卷积神经模型，定义损失函数，训练器和正确率计算等函数|
 |   cifar10_train_eval.py |训练CIFAR-10和评估CIFAR-10模型|
