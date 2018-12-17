@@ -12,7 +12,7 @@
     </thead>
     <tbody>
         <tr> <th>cifar10_model.py</th> <th> 建立卷积神经模型，定义损失函数，训练器和正确率计算等函数</th> </tr>
-        <tr> <th>cifar10_model.py</th> <th> 建立卷积神经模型，定义损失函数，训练器和正确率计算等函数</th> </tr>
+        <tr> <th>cifar10_input.py</th> <th> </th>读取本地CIFAR-10的二进制文件格式的内容 </tr>
         <tr> <th>cifar10_train_eval.py </th> <th>训练CIFAR-10和评估CIFAR-10模型</th> </tr>
     </tbody>
 </table>
